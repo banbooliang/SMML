@@ -41,11 +41,14 @@ pip install -r requirements.txt
 If you find this code and paper useful for your research, please kindly cite our paper.
 
 ```
-@inproceedings{zhang2022mmformer,
-  title={Semantic-guided Masked Mutual Learning for Multi-modal Brain Tumor Segmentation with Arbitrary Missing Modalities},
-  author={Guoyan, Liang and Qin, Zhou and Wang, Zhe and Jingyuan, Chen and Lin, Gu and Chang, Yao and Sai, Wu and Bingcang, Huang and Kai, Chen},
-  booktitle={The 39th Annual AAAI Conference on Artificial Intelligence, AAAI 2025},
-  year={2025},
+@misc{liang2025semanticguidedmaskedmutuallearning,
+      title={Semantic-guided Masked Mutual Learning for Multi-modal Brain Tumor Segmentation with Arbitrary Missing Modalities}, 
+      author={Guoyan Liang and Qin Zhou and Jingyuan Chen and Bingcang Huang and Kai Chen and Lin Gu and Zhe Wang and Sai Wu and Chang Yao},
+      year={2025},
+      eprint={2507.07592},
+      archivePrefix={arXiv},
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2507.07592}, 
 }
 ```
 
